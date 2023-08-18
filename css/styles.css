@@ -1,0 +1,25 @@
+body{
+    background: #000;
+}
+h2{
+    color: white;
+    background: #000;
+
+    padding-top: 30%;
+    padding-bottom:50%;
+
+}
+header{
+    font-size: x-large;
+    margin-left:40%;
+    margin-right: 40%;
+    color:rgb(255, 255, 255);
+    background-color: rgb(1, 65, 1);
+    padding:3px,3px;
+    padding-left: 3px;
+    
+}
+footer{
+    background: #014b27;
+ padding-bottom:10%;
+}
